@@ -1,6 +1,6 @@
 # Bad Front Running Bot
 
-![]("https://github.com/Ljankovi2003/A-Bad-Front-Running-Bot/blob/main/bot.gif")
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 This project, born out of my early exploration into programming, stands as a testament to the power of ingenuity in financial endeavors. Despite its humble origins, it proved to be a surprisingly profitable venture. Here's a deeper dive into its workings:
 
