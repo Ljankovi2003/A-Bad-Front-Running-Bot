@@ -1,3 +1,6 @@
+# Bad Front Running Bot
+
+
 This project, born out of my early exploration into programming, stands as a testament to the power of ingenuity in financial endeavors. Despite its humble origins, it proved to be a surprisingly profitable venture. Here's a deeper dive into its workings:
 
 1.Scouting for Hidden Gems: The program's primary objective is to unearth hidden opportunities within the cryptocurrency market. It accomplishes this by seeking out tokens that have recently entered the market and garnered limited attention from investors.
